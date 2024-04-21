@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class Masala1089 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             int x = sc.nextInt();
