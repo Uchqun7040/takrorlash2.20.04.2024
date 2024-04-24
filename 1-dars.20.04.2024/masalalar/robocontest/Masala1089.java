@@ -1,3 +1,5 @@
+package robocontest;
+
 import java.util.*;
 
 class Masala1089 {

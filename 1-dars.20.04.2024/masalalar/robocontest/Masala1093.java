@@ -1,3 +1,5 @@
+package robocontest;
+
 import java.util.Scanner;
 
 public class Masala1093 {

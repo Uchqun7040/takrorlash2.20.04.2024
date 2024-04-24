@@ -1,3 +1,5 @@
+package robocontest;
+
 import java.util.Scanner;
 //hali xato
 public class Masala0498 {
